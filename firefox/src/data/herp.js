@@ -5,9 +5,9 @@ var selectors = ['.Ct', '.comment-renderer-text-content', 'yt-formatted-string.c
 var derpString = function() {
   var randomLength = Math.floor(Math.random()*20)+1;
   var returnString = '';
-
+  var myOptions = ['maoob ', 'maooooob ', 'MAOOOB ', 'MAOOB!! ', 'maoob! '];  
   for (x=0; x<=randomLength; x++) {
-    returnString += (Math.floor(Math.random()*2) ? 'maoooob ' : 'maoob! ');
+    returnString += (myOptions[Math.random() * myOptions.length>>0]);
   }
   
   return returnString;
