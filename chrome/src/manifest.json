@@ -1,9 +1,9 @@
 {
-  "manifest_version": 2,
-  "name": "Herp Derp for YouTube™",
+  "manifest_version": 3,
+  "name": "Herp Derp for YouTube™ - Maoob edition",
   "version": "1.6.1",
   "homepage_url": "https://www.tannr.com",
-  "description": "Significantly improves YouTube comments by replacing them with random herps and derps.",
+  "description": "Significantly improves YouTube comments by replacing them with random herps and derps. Now, with Maoobs, to KittenAcademify it.",
   "icons": { 
      "48": "herp48.png",
      "128": "herp128.png"
