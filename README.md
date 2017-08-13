@@ -1,4 +1,4 @@
-# Maobify
+# Maoobify
 
 ### [Maoobify YouTube Comments]
 * This is a fork of the fantastic Herp Derp. Please find the original in (https://github.com/twstokes/herpderp) and check his site out (https://www.tannr.com/herp-derp-youtube-comments)
