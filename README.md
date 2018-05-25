@@ -9,7 +9,16 @@
 ### Supported browsers:
 
 * Chrome
-* Firefox
+  * Download the chrome/src/ folder
+  * Go to Extensions -> Load unpacked extension
+  * Browse to the src directory and choose it
+  * Extensions -> Pack extension
+  * DONE!
+* Firefox (more complicated)
+  npm install -g jpm
+  jpm test
+  jpm run or jpm run -b /Applications/FirefoxDeveloperEdition.app
+  jpm xpi
 * Safari (not available in Safari Extension Gallery, see [Installing herpderp for Safari](/safari/Installing.md))
 
 
